@@ -12,6 +12,7 @@ section{
 .half-width{
     width:50%;
     padding-left:5%;
+    margin-bottom: 150px;
 }
 .half-width img{
     width:80%;
@@ -27,4 +28,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.drean-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
